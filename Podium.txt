@@ -1,0 +1,2 @@
+Resultados de la carrera{primer lugar: 'Jian', secondPlace='Lian', thirdPlace='Ian'}
+Resultados de la carrera{primer lugar: 'Jian', secondPlace='Lian', thirdPlace='Ian'}
